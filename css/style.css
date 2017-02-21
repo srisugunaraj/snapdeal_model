@@ -1,0 +1,33 @@
+.wrap{
+	padding-top: 40px;
+}
+.box{
+	background-color: pink;
+	border: 1px solid red;
+}
+.box1{
+	background-color: wheat;
+	border: 1px solid red;
+	margin-bottom: 10px;
+}
+.hide{
+	display: none;
+}
+.modal-body {
+	height: 346px;
+    overflow-x: auto; 
+}
+.majory{
+	column-count: 4;
+    column-gap: 40px;
+    column-fill: auto;
+    -webkit-column-break-inside: avoid;
+    page-break-inside: avoid;
+    break-inside: avoid;
+    width: 600px;
+    margin: 0 auto;
+    height: 300px;
+}
+.majory p{
+	margin:0;
+}
